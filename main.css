@@ -1,4 +1,30 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: rgb(224, 221, 221);
+    color: rgb(49, 48, 48);
+    text-align: center;
 }
+
+h1 {
+    font-size: 55px;
+    margin-bottom: 0px;
+    text-shadow: 4px 4px #b4b4b4;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.container {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    border: 5px solid black;
+}
+
